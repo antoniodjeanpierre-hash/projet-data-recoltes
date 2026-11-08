@@ -4,7 +4,7 @@
 
 | Membre | Identifiant GitHub | Rôle principal |
 |-Mylins NERAIS|nemylins-jpg|Dianostique et nettoyage|
-| .. | ... | ... |
+|-Douyon Emmarola | Emmarola | jointures et indicateurs |
 | .. | .. | .. |
 | .. | ... |..  |
 | ... |..  |..  |
