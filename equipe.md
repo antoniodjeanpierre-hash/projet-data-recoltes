@@ -4,11 +4,11 @@
 
 | Membre | Identifiant GitHub | Rôle principal |
 |-Mylins NERAIS|nemylins-jpg|Dianostique et nettoyage|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| .. | ... | ... |
+| .. | .. | .. |
+| .. | ... |..  |
+| ... |..  |..  |
+| .. | .. | .. |
 
 ## Qui a fait quoi
 
