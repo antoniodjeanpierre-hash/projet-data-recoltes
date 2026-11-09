@@ -3,11 +3,13 @@
 **Lien du tableau de bord :**
 
 | Membre | Identifiant GitHub | Rôle principal |
-|-Mylins NERAIS|nemylins-jpg|Dianostique et nettoyage|
-|-Emmarola DOUYON | Emmarola | jointures et indicateurs |
-|-Abner LEGRAND | legrandabner05-hub | Questions 1 a 3 |
-|-Holdy Bertrand CHARMANT| HoldyCharmant | Questions 4, 5 et conclusion |
-|-Antonio D. JEAN PIERRE |antoniodjeanpierre-hash | Tableau de Bord et verification Finale  |
+|---|---|---|
+| Mylins NERAIS | nemylins-jpg | Diagnostic et nettoyage des données |
+| Emmarola DOUYON | Emmarola | Jointures et indicateurs du tableau de bord |
+| Abner LEGRAND | legrandabner05-hub | Questions 1 à 3 : poids des cultures, rendements, pluie |
+| Holdy Bertrnad CHARMANT | HoldyCharmant | Questions 4 et 5 : évolution, production par habitant ; conclusion du notebook |
+| Antonio D. JEAN PIERRE | antoniodjeanpierre-hash  | Tableau de bord (onglets, conclusion), mise en ligne |
+
 
 ## Qui a fait quoi
 
